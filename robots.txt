@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+Sitemap: https://gztongchen.com/sitemap.xml
+
+# Bing
+User-agent: Bingbot
+Allow: /
+
+# Google
+User-agent: Googlebot
+Allow: /
+
+# Yahoo
+User-agent: Slurp
+Allow: /
+
+# Baidu
+User-agent: Baiduspider
+Allow: /
